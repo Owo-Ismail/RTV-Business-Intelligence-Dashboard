@@ -170,13 +170,68 @@ The dashboard highlights underperforming locations and courses that may require 
 
 ---
 
-## Recommendations
+## Dashboard Findings
 
-- Increase investment in high-performing courses.
-- Expand successful programs to additional locations.
-- Investigate causes of low conversion rates.
-- Improve marketing efforts for underperforming courses.
-- Monitor revenue trends regularly to support strategic planning.
+### Revenue Generation
+
+The institution generated a total revenue of ₦134.68M during the reporting period.
+
+Revenue trends indicate periods of significant growth, with the highest monthly revenue recorded in October at approximately ₦18.7M.
+
+### Student Conversion Performance
+
+Out of 2,000 potential registrations:
+
+- 981 students were successfully activated.
+- 515 prospects were lost during the enrollment process.
+- The overall conversion rate was 42.91%.
+
+This suggests opportunities to improve the enrollment funnel and increase student acquisition efficiency.
+
+### Course Performance
+
+Data Analysis generated the highest revenue at approximately ₦113M.
+
+Revenue contribution by course:
+
+- Data Analysis: ₦113M
+- Cyber Security: ₦15M
+- UI/UX: ₦6M
+- System Administration: Minimal contribution
+
+This indicates that Data Analysis is the institution's strongest revenue-generating program.
+
+### Location Performance
+
+Abuja generated approximately ₦83M in revenue.
+
+Lagos generated approximately ₦51M in revenue.
+
+Abuja outperformed Lagos by more than ₦30M, suggesting stronger market penetration and enrollment performance.
+
+## Strategic Recommendations
+
+### Expand High-Performing Programs
+
+The Data Analysis program contributes the majority of institutional revenue and should receive continued investment in marketing, instructor resources, and student acquisition initiatives.
+
+### Improve Enrollment Conversion
+
+With a conversion rate of 42.91%, there is significant room for improvement in the student acquisition funnel.
+
+Management should investigate:
+
+- Lead follow-up processes
+- Admission bottlenecks
+- Student onboarding experience
+
+### Strengthen Underperforming Programs
+
+Programs such as System Administration and UI/UX should be reviewed to identify factors limiting enrollment and revenue generation.
+
+### Replicate Abuja's Success
+
+Abuja's superior revenue performance should be analyzed to identify successful practices that can be implemented in Lagos and future locations.
 
 ---
 
@@ -198,13 +253,44 @@ The solution enables:
 
 ### Executive Overview
 
+Provides leadership with a snapshot of:
+
+- Total Revenue
+- Conversion Rate
+- Activated Students
+- Leads
+- Lost Opportunities
+
 ![Executive Overview](Dashboard-Screenshots/Executive-Overview.png)
 
+---
+
 ### Revenue Analysis
+
+Provides insights into:
+
+- Monthly Revenue Trends
+- Revenue by Course
+- Revenue by Location
 
 ![Revenue Analysis](Dashboard-Screenshots/Revenue-Analysis.png)
 
 ---
+
+### Enrollment Analysis
+
+Tracks student enrollment performance and conversion metrics across the institution.
+
+![Enrollment Analysis](Dashboard-Screenshots/Enrollment-Analysis.png)
+
+---
+
+### Location Performance Analysis
+
+Compares operational and financial performance across locations.
+
+![Location Performance Analysis](Dashboard-Screenshots/Location-Performance-Analysis.png)
+
 
 ## Author
 
