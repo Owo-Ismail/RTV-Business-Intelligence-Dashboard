@@ -279,7 +279,10 @@ Provides insights into:
 
 ### Enrollment Analysis
 
-Tracks student enrollment performance and conversion metrics across the institution.
+- Student Acquisition
+- Registration Performance
+- Conversion Funnel
+- Session and Type Trends
 
 ![Enrollment Analysis](Dashboard-Screenshots/Enrollment-Analysis.png)
 
@@ -287,7 +290,10 @@ Tracks student enrollment performance and conversion metrics across the institut
 
 ### Location Performance Analysis
 
-Compares operational and financial performance across locations.
+- Location Comparison
+- Top Performing Courses
+- Top Performing Location in Lagos
+- Underperforming Location in Lagos
 
 ![Location Performance Analysis](Dashboard-Screenshots/Location-Performance-Analysis.png)
 
