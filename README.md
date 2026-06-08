@@ -198,21 +198,12 @@ The solution enables:
 
 ### Executive Overview
 
-(Add screenshot here)
+![Executive Overview](Dashboard-Screenshots/Executive-Overview.png)
 
 ### Revenue Analysis
 
-(Add screenshot here)
+![Revenue Analysis](Dashboard-Screenshots/Revenue-Analysis.png)
 
-### Enrollment Analysis
-
-(Add screenshot here)
-
-### Performance Analysis
-
-(Add screenshot here)
-
----
 
 ## Author
 
