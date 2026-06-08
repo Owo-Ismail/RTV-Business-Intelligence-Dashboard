@@ -274,7 +274,7 @@ Provides insights into:
 - Revenue by Course
 - Revenue by Location
 
-![Revenue Analysis](Dashboard-Screenshots/Revenue-Analysis.png)
+![Revenue Analysis]<img width="1208" height="714" alt="image" src="https://github.com/user-attachments/assets/ce098a50-df5b-442b-9f1d-7fb299f3feaa" />
 
 ---
 
