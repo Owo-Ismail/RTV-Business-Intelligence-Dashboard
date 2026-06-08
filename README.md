@@ -198,7 +198,7 @@ The solution enables:
 
 ### Executive Overview
 
-![Executive Overview](Dashboard-Screenshots/Executive-Overview.png.png)
+![Executive Overview](Dashboard-Screenshots/Executive-Overview.png)
 
 ### Revenue Analysis
 
