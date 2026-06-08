@@ -204,7 +204,6 @@ The solution enables:
 
 ![Revenue Analysis](Dashboard-Screenshots/Revenue-Analysis.png)
 
-
 ## Author
 
 ### Ismail Owolabi
