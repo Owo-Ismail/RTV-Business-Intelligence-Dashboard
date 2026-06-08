@@ -261,7 +261,7 @@ Provides leadership with a snapshot of:
 - Leads
 - Lost Opportunities
 
-![Executive Overview]<img width="1208" height="714" alt="image" src="https://github.com/user-attachments/assets/ce098a50-df5b-442b-9f1d-7fb299f3feaa" />
+![Executive Overview](Dashboard-Screenshots/Executive-Overview.png)
 
 
 ---
