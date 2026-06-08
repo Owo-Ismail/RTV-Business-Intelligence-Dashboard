@@ -261,7 +261,7 @@ Provides leadership with a snapshot of:
 - Leads
 - Lost Opportunities
 
-[![Executive Overview](Dashboard-Screenshots/Executive-Overview.png)](https://github.com/Owo-Ismail/RTV-Business-Intelligence-Dashboard/blob/main/Dashboard-Screenshots/Executive%20Overview.png)
+![Executive Overview](Dashboard-Screenshots/Executive-Overview.png)
 
 ---
 
