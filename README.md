@@ -284,7 +284,7 @@ Provides insights into:
 - Conversion Funnel
 - Session and Type Trends
 
-[![Enrollment Analysis](Dashboard-Screenshots/Enrollment-Analysis.png)](https://github.com/Owo-Ismail/RTV-Business-Intelligence-Dashboard/blob/main/Dashboard-Screenshots/Enrollment%20Analysis.png?raw=true)
+[[![Enrollment Analysis](Dashboard-Screenshots/Enrollment-Analysis.png)](https://github.com/Owo-Ismail/RTV-Business-Intelligence-Dashboard/blob/main/Dashboard-Screenshots/Enrollment%20Analysis.png?raw=true)](https://github.com/Owo-Ismail/RTV-Business-Intelligence-Dashboard/tree/main/Dashboard-Screenshots#:~:text=..-,Enrollment%20Analysis.png,-Add%20files%20via)
 
 ---
 
