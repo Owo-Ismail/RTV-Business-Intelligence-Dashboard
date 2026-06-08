@@ -198,25 +198,25 @@ The solution enables:
 
 ### Executive Overview
 
-![Revenue Analysis](Dashboard-Screenshots/Executive-Overview.png)
+![Executive Overview](Dashboard-Screenshots/Executive-Overview.png)
 
 ### Revenue Analysis
 
 ![Revenue Analysis](Dashboard-Screenshots/Revenue-Analysis.png)
 
+---
+
 ## Author
 
 ### Ismail Owolabi
 
-Data Analyst | Business Intelligence Analyst | Power BI Developer
+Data Analyst | Power BI Developer | Business Intelligence Enthusiast
 
 ### Connect With Me
 
-LinkedIn:
-www.linkedin.com/in/ismail-owolabi
+- LinkedIn: www.linkedin.com/in/ismail-owolabi
+- GitHub: github.com/Owo-Ismail
+- Email: owo.ismail@gmail.com
 
-GitHub:
-github.com/Owo-Ismail
-
-Email:
-owo.ismail@gmail.com
+---
+⭐ If you found this project useful, feel free to star the repository.
