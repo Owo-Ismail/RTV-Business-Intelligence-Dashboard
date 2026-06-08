@@ -296,7 +296,7 @@ Provides insights into:
 - Top Performing Location in Lagos
 - Underperforming Location in Lagos
 
-![Location Performance Analysis](Dashboard-Screenshots/Location-Performance-Analysis.png)
+![Location Performance Analysis]<img width="1208" height="714" alt="image" src="https://github.com/user-attachments/assets/ce098a50-df5b-442b-9f1d-7fb299f3feaa" />
 
 
 ## Author
