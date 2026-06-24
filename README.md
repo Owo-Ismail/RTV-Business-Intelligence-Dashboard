@@ -261,7 +261,7 @@ Provides leadership with a snapshot of:
 - Leads
 - Lost Opportunities
 
-![Executive Overview](Dashboard-Screenshots/Executive-Overview.png)
+![Executive Overview]<img width="1215" height="717" alt="Executive Overview" src="https://github.com/user-attachments/assets/93e35f46-d77a-4161-ae07-b9c2f11685bd" />
 
 ---
 
@@ -273,7 +273,7 @@ Provides insights into:
 - Revenue by Course
 - Revenue by Location
 
-![Revenue Analysis](Dashboard-Screenshots/Revenue-Analysis.png)
+![Revenue Analysis]<img width="1207" height="714" alt="Revenue Analysis" src="https://github.com/user-attachments/assets/aace7160-168d-4102-98ee-cc0dc6a8715c" />
 
 ---
 
@@ -284,7 +284,7 @@ Provides insights into:
 - Conversion Funnel
 - Session and Type Trends
 
-[(Dashboard-Screenshots/Enrollment-Analysis.png)](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=10f32b79-5aae-4e9a-9503-641f354abef6)
+![Enrollment Analysis]<img width="1206" height="714" alt="Enrollment Analysis" src="https://github.com/user-attachments/assets/06032eeb-2de1-42f4-b20f-7584f51d3929" />
 
 ### Location Performance Analysis
 
