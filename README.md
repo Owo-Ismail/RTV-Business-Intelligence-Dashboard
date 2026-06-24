@@ -284,7 +284,7 @@ Provides insights into:
 - Conversion Funnel
 - Session and Type Trends
 
-![Enrollment Analysis](Dashboard-Screenshots/Enrollment-Analysis.png)
+!Enrollment Analysis[(Dashboard-Screenshots/Enrollment-Analysis.png)](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=10f32b79-5aae-4e9a-9503-641f354abef6)
 
 ### Location Performance Analysis
 
